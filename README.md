@@ -3,7 +3,8 @@
 ## Instructions for 1 step full package installation:
 PowerPoint: https://ibm.box.com/v/21Demo21DemoThreatEnrichement 
 Direct Link to the full Package to install directly on:
-* __v17: https://ibm.box.com/v/SOARThreatUsesCasesPackage__  __*link to change here*__
+* __v17: https://github.com/brostagni/SOAR-Threat-Management-Use-Cases/blob/main/export-CP4S_Demo_Cases.resz__
+  https://ibm.box.com/v/SOARThreatUsesCasesPackage__  __*link to change here*__
   * CP4S SOAR 1.7+
   * IBM Security SOAR v40.1+ (Resilient Stand Alone) 
   * See additional manual steps to install Components App & Uses Case #16
