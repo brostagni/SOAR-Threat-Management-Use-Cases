@@ -3,8 +3,7 @@
 ## Instructions for 1 step full package installation:
 PowerPoint: https://ibm.box.com/v/21Demo21DemoThreatEnrichement 
 Direct Link to the full Package to install directly on:
-* __v17: https://github.com/brostagni/SOAR-Threat-Management-Use-Cases/blob/main/export-CP4S_Demo_Cases.resz__
-  https://ibm.box.com/v/SOARThreatUsesCasesPackage__  __*link to change here*__
+* __v17: [export-CP4S_Demo_Cases.resz](https://github.com/brostagni/SOAR-Threat-Management-Use-Cases/blob/main/export-CP4S_Demo_Cases.resz)__
   * CP4S SOAR 1.7+
   * IBM Security SOAR v40.1+ (Resilient Stand Alone) 
   * See additional manual steps to install Components App & Uses Case #16
@@ -20,7 +19,7 @@ Direct Link to the full Package to install directly on:
 _Script and rule "TLP from TI" need to be deleted from old version before importing_
 
 ## install the full package within minutes
-* download the full package from https://ibm.box.com/v/SOARThreatUsesCasesPackage __*link to change here*__
+* download the full package from [export-CP4S_Demo_Cases.resz](https://github.com/brostagni/SOAR-Threat-Management-Use-Cases/blob/main/export-CP4S_Demo_Cases.resz)
 * go to you SOAR > Administration > Organisation > Import
 * Import the package __export-CP4S_Demo_Cases.resz__
   * if you get a time-out, just import again, it is a BIG package
