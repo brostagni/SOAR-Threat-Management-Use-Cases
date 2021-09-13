@@ -32,7 +32,7 @@ _Script and rule "TLP from TI" need to be deleted from old version before import
   * Deploy the Apps on the App Host and verify the app.config file for sepecific needs of Api Keys expected by the Integration.
 
 ## Package installed:
-1. House Keeping
+1. [House Keeping](https://github.com/brostagni/SOAR-Threat-Management-Use-Cases/blob/main/House_Keeping/read_me.md)
 2. Traffic Light Protocol
 3. Automatic incident type setup
 4. Severity Color Coding
